@@ -1,0 +1,7 @@
+"object_1,object_2,connection",object_1,object_2,connection
+,жизненный уровень,уровень жизни,duplicate
+,личная жизнь автора,жизненный подход автора,not_duplicate
+,опыт автора,жизненный подход автора,not_duplicate
+,личная жизнь автора,опыт автора,not_duplicate
+,система власти РФ,политическая система РФ,duplicate
+,тусовка в магазине,событие в магазине,not_duplicate
