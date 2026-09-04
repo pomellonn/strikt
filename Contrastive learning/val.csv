@@ -1,6 +1,0 @@
-"object_1,object_2,connection",object_1,object_2,connection
-,авария на трассе М4,ДТП на трассе М4,duplicate
-,частые аварии на М5 трассе,ДТП на трассе М4,not_duplicate
-,частые аварии на М5 трассе,авария на трассе М4,not_duplicate
-,доставка,товар,not_duplicate
-,услуги плиточника,работа мастеров,not_duplicate
